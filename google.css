@@ -252,4 +252,22 @@
   #bottom a:hover {
     text-decoration: underline;
   }
+  @media only screen and (max-width: 600px) {
+   .header .left-header {
+       display: none;
+  }
+  .header .right-header{
+    position: absolute;
+    right: 10px;
+    top: 5px;
+  }
+  .google{
+    font-size: 60px;
+    margin: 10px;
+  }
+  .searchinput{
+    max-width:400px;
+    height: 20px;
+  }
   
+}
