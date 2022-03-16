@@ -5,12 +5,11 @@
 }
 
 body {
-  display: flex;
-  flex-direction: column;
   height: 100vh;
   width: 100vw;
   font-family: arial, sans-serif;
 }
+
 a {
   text-decoration: none;
   /* color: black; */
@@ -88,7 +87,6 @@ a {
   /* padding: 0px 0px; */
 }
 .header .left-header .hamburger {
-  /* display:none; */
   visibility: hidden;
 }
 .header .right-header {
@@ -258,18 +256,17 @@ footer {
 }
 
 @media only screen and (max-width: 600px) {
+  
   .header .left-header a {
     display: none;
   }
-
   .header .left-header .hamburger {
     /* display: block; */
     visibility: visible;
     position: absolute;
-    left: 10px;
+    left: 15px;
     top: 5px;
   }
-
   .header .right-header {
     position: absolute;
     right: 10px;
