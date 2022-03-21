@@ -240,7 +240,7 @@ footer {
 #bottom {
   border-top: 1px solid rgb(223, 220, 220);
   height: 40px;
-  /* margin-top: 50px; */
+  /* margin:10px 50px; */
   text-align: center;
   padding-top: 5px;
   color: rgb(100, 95, 95);
@@ -286,5 +286,8 @@ footer {
     font-size: 14px;
     padding: 8px 12px;
     margin: 8px;
+  }
+  .bottom{
+   margin:5px 10px;
   }
 }
