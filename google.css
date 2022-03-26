@@ -294,12 +294,12 @@ footer {
   .bottomfooter{
    /* height: 50px; */
    line-height:25px;
-   padding:5px 15px;
+   padding:5px 100px 2px 15px;
   }
   /* .bottomfooter a:nth-child(4){
     margin-left:40px;
   } */
-  .bottom{
-   padding:10px 10px 5px 10px;
+  #bottom{
+   padding: 10px 10px 5px 10px;
   }
 }
