@@ -241,7 +241,7 @@ footer {
   height: 50px;
   text-align: center;
   padding-top: 10px;
-  color: rgb(100, 95, 95);
+  color: rgba(104, 97, 97, 0.8);
   background-color: #f8f8f8;
   font-family: none;
 }
