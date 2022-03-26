@@ -292,8 +292,8 @@ footer {
     left: 0;
   }
   .bottomfooter{
-     /* height: 50px; */
-   font-size:smaller;
+    /* height: 50px; */
+   font-size:x-small;
    /* line-height:25px; */
    padding:5px 0 5px 10px;
   }
