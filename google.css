@@ -300,6 +300,9 @@ footer {
     margin-left:40px;
   } */
   #bottom{
-   padding: 10px 10px 5px 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
   }
 }
