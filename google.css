@@ -292,7 +292,7 @@ footer {
   .bottomfooter{
    /* height: 50px; */
    line-height:20px;
-   padding:5px 0 5px 10px;
+  padding:5px 0 5px 15px;
   }
   .bottomfooter a{
     font-size:small;
