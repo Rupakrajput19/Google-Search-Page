@@ -295,6 +295,9 @@ footer {
    /* line-height:25px; */
    padding:5px 0 5px 10px;
   }
+  .bottomfooter a{
+    font-size: small;
+  }
   /* .bottomfooter a:nth-child(4){
     margin-left:40px;
   } */
