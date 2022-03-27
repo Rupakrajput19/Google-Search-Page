@@ -231,7 +231,7 @@ footer {
 .bottomfooter {
   display: flex;
   justify-content: space-between;
-  flex-wrap: wrap;
+  flex-wrap: wrap-reverse;
   /* border: 1px solid grey; */
   /* font-weight: 500; */
 }
